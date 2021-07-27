@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm alg_-settings*
+rm alg-settings*
 
 echo "repo-add"
 repo-add -n -R alg-settings.db.tar.gz *.pkg.tar.zst
